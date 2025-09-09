@@ -3,5 +3,8 @@
 public class Main {
     public static void main(String[] args) {
         System.out.println("Hello my name is Zain");
+        System.out.println("Nice to meet you");
+        System.out.println("I am Santino");
     }
+
 }
