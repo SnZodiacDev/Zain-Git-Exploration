@@ -3,5 +3,7 @@
 public class Main {
     public static void main(String[] args) {
         System.out.println("Hello my name is Zain");
+        System.out.println("Nice to meet you, Zain");
+        System.out.println("My name is D'Angelo");
     }
 }
